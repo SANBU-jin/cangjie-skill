@@ -1,0 +1,6 @@
+interface:
+  display_name: "仓颉内容蒸馏"
+  short_description: "把书籍、长视频、播客、课程或访谈中的方法论蒸馏成可复用 Skill"
+  default_prompt: "使用 $cangjie-skill 将这份长内容蒸馏成可执行、可复用的 Skill。"
+policy:
+  allow_implicit_invocation: true
